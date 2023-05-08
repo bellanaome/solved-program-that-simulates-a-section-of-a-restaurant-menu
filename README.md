@@ -1,0 +1,9 @@
+Download Link: https://assignmentchef.com/product/solved-program-that-simulates-a-section-of-a-restaurant-menu
+<br>
+The first step in writing a software application is to determine the requirements. There is no value in writing a program that does not address the needs of the client. Requirements can be gathered in many ways, but ultimately, the requirements serve to document what the application should and should not do. After the requirements are written, the application design can be prepared, followed by the actual coding. For this project, you will gain some practice in the design phase of software development by designing a program that will meet a given set of requirements.
+
+Develop a console program that simulates a section of a restaurant menu. Each item will have a different price and your program should define at least ten (10) items. You will need to obtain an order from the user who should provide their menu selection along with quantity. The total cost for the meal must be calculated. The user will enter the amount of their payment ($10, $20, etc.). The program needs to calculate the amount due back to the user (payment minus total cost of meal).
+
+The project instructions and deliverables are as follows:
+
+Create a document in Word (name the design document yourName_Unit2.IP), and add the following: Title page Course number and nameProject nameStudent nameDateList the data items that must be stored and used by the program. Each data item should be given a name for reference. Develop a UML class diagram that illustrates the data items for your program.List the decisions the program must make. References to the data items in the previous step should be used where appropriate.Describe the flow of operation of the program by preparing pseudocode or a UML activity diagram. All key activities should be included, and references to the data items and decisions listed in the previous steps should be used.
